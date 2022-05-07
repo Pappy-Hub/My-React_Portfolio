@@ -1,0 +1,48 @@
+.SectionTwo{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    
+}
+
+
+.SectionTwo li {
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block; 
+    white-space: nowrap;  
+    margin-left: 150px; 
+
+   
+}
+
+.SectionTwo a{
+    text-decoration: none;
+ 
+
+}
+
+
+
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    margin-left: 300px;
+    width: 500px;
+  
+    
+}
+
+.port{
+    text-align: center;
+
+}
+
+    
+/* .PP{
+    border: 1px cyan;
+
+   
+} */
+

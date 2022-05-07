@@ -1,0 +1,42 @@
+
+
+.sec1{
+   padding-top: 100px;
+   
+ 
+    
+}
+.Boyshokan2{
+    width: 550px;
+}
+
+.Section-One-Flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.section-one-text{
+    font-weight: lighter;
+    
+}
+
+
+.btn-hire{
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: lightgreen;
+    border-radius: 30px;
+    
+    
+
+}
+
+.btn-dload{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: rgb(158, 158, 240);
+    border-radius: 30px;
+}

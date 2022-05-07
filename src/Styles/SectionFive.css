@@ -1,0 +1,79 @@
+.sec5{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(229, 238, 241);
+}
+
+.Contact{
+    text-align: center;
+    font-weight: 400;
+   
+}
+
+.Section-Five-Flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.fn{
+    width: 300px;
+    border-top: 1px;
+
+}
+
+.ln{
+    width: 300px;
+    border-top: 1px;
+
+}
+
+.em{
+    width: 600px;
+    border-top: 1px;
+
+}
+.msg{
+    width: 600px;
+    border-top: 1px;
+
+}
+.btnContact{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background-color:#96BB7C;
+    color: white;
+}
+
+.lnn{
+    position: relative;
+    left: 305px;
+    color: grey;
+}
+
+.fnn{
+    position: relative;
+    top: 40px;   
+    color: grey;
+}
+
+.emm{
+    color: grey;
+}
+.add{
+    color: #96BB7C;
+    font-size: 17px;
+}
+
+.addnum{
+    font-size: 18
+    px;
+}
+.cinfo{
+    font-size: 22px;
+}
+
+/* div:hover p{
+    display: block;
+    background-color: skyblue;
+} */

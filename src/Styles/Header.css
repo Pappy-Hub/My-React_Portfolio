@@ -1,0 +1,75 @@
+
+.Link-Header{
+    background-color: rgb(183, 202, 238);
+    padding-bottom: 50px;
+}
+
+
+header{
+    
+    /* background-color: cyan; */
+    overflow: hidden;
+    height: 120vh;
+    background-image: url('../images/desktop/pappy-bg.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: 1350px 800px;
+    border-bottom-right-radius: 500px;
+    border-bottom-left-radius: 500px;
+    border-top-right-radius: 500px;
+    border-top-left-radius: 500px;
+    /* background-size: inherit; */
+    /* object-fit: cover; */  
+     
+
+}
+
+    header h1{
+        color: white;
+        font-weight: lighter;       
+        width: 500px;
+        height: 200px;
+        text-align: left ;
+        margin-left: 100px;      
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 40px;
+        margin-right: 40px;
+        font-size: 50px;
+        
+        
+
+
+    }
+
+    .navbar-nav{
+        margin-left: 500px;
+    }
+
+    .navbar-brand{
+        margin-left: 100px;
+
+    }
+
+    .nav-link:hover{
+        color: cyan
+        
+    }
+
+ 
+    .p1{
+        font-weight: bold;
+           
+
+    }
+     
+    .p2{
+        color:navy;
+        font-weight: bold;
+        
+    }
+  
+    .nav-item a{
+        color: rgb(56, 18, 56);
+        text-decoration: none;
+    }
